@@ -17,13 +17,13 @@ p, li {
 
 
 html {
-  background-color: #36FBEB;
+  background-color: #00539F;
 }
 
 body {
   width: 600px;
   margin: 0 auto;
-  background-color: #FF9500;
+  background-color: #36FBEB;
   padding: 0 20px 20px 20px;
   border: 5px solid black;
 }
