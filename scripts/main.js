@@ -2,17 +2,14 @@ var myImage = document.querySelector('img');
 
 myImage.onclick = function() {
     var mySrc = myImage.getAttribute('src');
-    if(mySrc === 'images/firefox-icon.png') {
-	    myImage.setAttribute ('src','images/chrome-icon.png');
+    if(mySrc === 'images/Avyan1.JPG') {
+	    myImage.setAttribute ('src','images/Avyan2.JPG');
     }	
-	else if(mySrc === 'images/chrome-icon.png') {		
-		myImage.setAttribute ('src','images/safari-icon.png');
-	}
-	else if(mySrc === 'images/safari-icon.png') {		
-		myImage.setAttribute ('src','images/ie-icon.png');
+	else if(mySrc === 'images/Avyan2.JPG') {		
+		myImage.setAttribute ('src','images/Avyan3.JPG');
 	}
 	else {
-		myImage.setAttribute ('src','images/firefox-icon.png');
+		myImage.setAttribute ('src','images/Avyan1.JPG');
 	}
 }
 
