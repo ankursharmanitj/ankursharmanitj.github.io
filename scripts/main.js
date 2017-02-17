@@ -21,7 +21,7 @@ var myHeading = document.querySelector('h1');
 
 function setUserName() {
   var myName = prompt('Please enter your name.');    
-  myHeading.textContent = "Welcome" + myName + "to Avayan's portal";
+  myHeading.textContent = "Welcome " + myName + " to Avayan's portal";
 };
 
 myButton.onclick = function() {
