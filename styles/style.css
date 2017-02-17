@@ -9,6 +9,10 @@ h1 {
   text-align: center;
 }
 
+button {
+  position: absolute;
+}
+
 p, li {
   font-size: 16px;  
   line-height: 2;
