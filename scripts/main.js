@@ -2,14 +2,14 @@ var myImage = document.querySelector('img');
 
 myImage.onclick = function() {
     var mySrc = myImage.getAttribute('src');
-    if(mySrc === 'images/Avyan1.JPG') {
-	    myImage.setAttribute ('src','images/Avyan2.JPG');
+    if(mySrc === 'images/Avyan1.png') {
+	    myImage.setAttribute ('src','images/Avyan2.png');
     }	
-	else if(mySrc === 'images/Avyan2.JPG') {		
-		myImage.setAttribute ('src','images/Avyan3.JPG');
+	else if(mySrc === 'images/Avyan2.png') {		
+		myImage.setAttribute ('src','images/Avyan3.png');
 	}
 	else {
-		myImage.setAttribute ('src','images/Avyan1.JPG');
+		myImage.setAttribute ('src','images/Avyan1.png');
 	}
 }
 
