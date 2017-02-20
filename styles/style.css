@@ -45,5 +45,6 @@ img {
 }
 
 figcaption {    
+    font-size: 5px;
     text-align: center;
 }
