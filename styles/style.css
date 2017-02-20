@@ -11,6 +11,7 @@ h1 {
 
 button {
   position: absolute;
+  padding: 0 0 5px 0;
 }
 
 p, li {
