@@ -10,8 +10,7 @@ h1 {
 }
 
 button {
-  position: absolute;
-  margin-bottom: 10px;
+  position: absolute;  
 }
 
 p, li {
@@ -29,7 +28,7 @@ body {
   width: 600px;
   margin: 0 auto;
   background-color: #36FBEB;
-  padding: 0 20px 20px 20px;
+  padding: 0 20px 10px 20px;
   border: 5px solid black;
 }
 
