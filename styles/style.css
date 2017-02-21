@@ -9,7 +9,8 @@ h1 {
 }
 
 button {
-  position: absolute;  
+  position: absolute;
+    margin-bottom: auto;
 }
 
 p, li {
