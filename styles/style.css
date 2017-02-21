@@ -3,7 +3,6 @@ html {
   font-family: 'Satisfy', cursive;
 }
 
-
 h1 {
   font-size: 60px;
   text-align: center;
@@ -17,8 +16,8 @@ p, li {
   font-size: 16px;  
   line-height: 2;
   letter-spacing: 1px;
+    text-shadow: 3px 3px 1px black;
 }
-
 
 html {
   background-color: #F7FFB3;
