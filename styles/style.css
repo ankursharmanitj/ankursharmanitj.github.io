@@ -50,5 +50,10 @@ figcaption {
 
 input {
     width: 600px;
-    height: 120px;
+    height: 60px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+}
 }
